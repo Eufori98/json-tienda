@@ -1,0 +1,920 @@
+{
+    "videojuegos":[
+        {
+            "id": 1,
+            "nombre": "Alan Wake Remastered",
+            "plataforma": "Playstation 5",
+            "descripcion": "En este galardonado thriller de acción cinemática, el afligido escritor Alan Wake se embarca en la desesperada búsqueda de su mujer desaparecida, Alice. Tras su misteriosa desaparición en el pueblo de Bright Falls, en el Noroeste del Pacífico, Alan descubre las páginas de una historia de terror que supuestamente ha escrito, pero de la que no guarda ningún recuerdo. Alan se ve forzado a cuestionar su cordura viendo como, página a página, la historia se vuelve realidad frente a él: una presencia hostil de oscuridad sobrenatural se está apoderando de todos los que encuentra, volviéndolos en su contra. No le queda más remedio que enfrentarse a las fuerzas de la oscuridad armado únicamente con su linterna, una pistola y lo que queda de su destrozada mente. Su viaje de pesadilla para encontrar respuestas al alucinante misterio al que se enfrenta le llevará a las aterradoras profundidades de la noche. Alan Wake Remastered ofrece la experiencia completa, que incluye el juego principal y las dos expansiones de la historia ",
+            "precio": 79.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/alan.jpg?raw=true",
+            "destacado": "si",
+            "masBuscado": "no",
+            "disponibilidad": "Disponible"
+            
+        },
+        {
+            "id": 2,
+            "nombre": "Demons Souls",
+            "plataforma": "Playstation 5",
+            "descripcion": "PlayStation Studios y Bluepoint Games presentan un remake del clásico de PlayStation, Demon's Souls. Este remake, rediseñado por completo y optimizado de forma magistral, presenta los horrores de una oscura y neblinosa tierra de fantasía a una nueva generación de jugadores. Aquellos que ya se hayan enfrentado a sus dificultades y adversidades pueden volver a desafiar a la oscuridad con una calidad visual sin igual y un rendimiento increíble.",
+            "precio": 79.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/demons.jpg?raw=true",
+            "destacado": "no",
+            "masBuscado": "si",
+            "disponibilidad": "Disponible"
+            
+        },
+        {
+            "id": 3,
+            "nombre": "Elden Ring",
+            "plataforma": "Playstation 5",
+            "descripcion": "Elden Ring es el nuevo videojuego de FromSoftware, creadores de Dark Souls, Sekiro o Bloodborne. Se trata del nuevo título de acción y rol para un jugador ideado por Hidetaka Miyazaki, que en esta ocasión, estrenará un mundo abierto más grande y ambicioso. Su argumento y mitología están firmados por George R.R. Martin, autor de Canción de hielo y fuego.",
+            "precio": 69.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/elden.jpg?raw=true",
+            "destacado": "no",
+            "masBuscado": "no",
+            "disponibilidad": "No Disponible"
+            
+        },
+        {
+            "id": 4,
+            "nombre": "Godfall",
+            "plataforma": "Playstation 5",
+            "descripcion": "Godfall es un videojuego de acción y rol para PlayStation 5 definido por sus desarrolladores como un looter slasher, un género que mezcla las mecánicas de videojuegos como Warframe o Destiny con el combate cuerpo a cuerpo con armas. Ambientado en un mundo de fantasía, el título presenta un apartado gráfico muy vistoso en la máquina de Sony.",
+            "precio": 49.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/godfall.jpg?raw=true",
+            "destacado": "no",
+            "masBuscado": "no",
+            "disponibilidad": "Disponible"
+            
+        },
+        {
+            "id": 5,
+            "nombre": "Ghost of Thsusima",
+            "plataforma": "Playstation 5",
+            "descripcion": "Descubre las maravillas ocultas de Tsushima en esta aventura de acción de mundo abierto creada por Sucker Punch Productions y PlayStation Studios, disponible para PS5 y PS4. Forja un nuevo camino y libra una guerra poco convencional por la libertad de Tsushima. Reta a los oponentes con tu katana, domina el arco para eliminar amenazas a distancia, desarrolla tácticas de sigilo para tender emboscadas a los enemigos y explora una nueva historia en la isla de Iki.",
+            "precio": 69.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/got.jpg?raw=true",
+            "destacado": "si",
+            "masBuscado": "no",
+            "disponibilidad": "Disponible"
+            
+        },
+        {
+            "id": 6,
+            "nombre": "Gran Turismo 7",
+            "plataforma": "Playstation 5",
+            "descripcion": "Desde los vehículos y circuitos más clásicos hasta la reincorporación del legendario modo Simulación GT, disfruta de las mejores funcionalidades de las anteriores entregas de la serie. Y, si te apasiona la velocidad, practica y compite en los Campeonatos FIA y en el modo Sport*.",
+            "precio": 79.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/gt7.jpg?raw=true",
+            "destacado": "no",
+            "masBuscado": "no",
+            "disponibilidad": "Disponible"
+            
+        },
+        {
+            "id": 7,
+            "nombre": "SpiderMan Miles Morales",
+            "plataforma": "Playstation 5",
+            "descripcion": "En la última aventura del universo de Spider-Man de Marvel, el adolescente Miles Morales se adapta a su nuevo barrio al tiempo que sigue los pasos de Peter Parker, su mentor, y se convierte en un nuevo Spider-Man. Pero cuando una feroz lucha de poderes amenaza con destruir su nuevo hogar, el aspirante a héroe se da cuenta de que un gran poder conlleva una gran responsabilidad. Para salvar la Nueva York de Marvel, Miles debe tomar el relevo de Spider-Man y estar a la altura. ",
+            "precio": 59.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/spiderman-miles.jpg?raw=true",
+            "destacado": "si",
+            "masBuscado": "si",
+            "disponibilidad": "No Disponible"
+            
+        },
+        {
+            "id": 8,
+            "nombre": "Ratchet and Clank",
+            "plataforma": "Playstation 5",
+            "descripcion": "Viaja entre dimensiones con Ratchet y Clank en su lucha contra un malvado emperador de otra realidad. Salta entre mundos cargados de acción y más allá a velocidades de vértigo, con unos gráficos espectaculares y un arsenal demencial en el estreno de estos aventureros intergalácticos en la consola PS5™.",
+            "precio": 49.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/ratchet.jpg?raw=true",
+            "destacado": "no",
+            "masBuscado": "si",
+            "disponibilidad": "Disponible"
+            
+        },
+        {
+            "id": 9,
+            "nombre": "Resident evil Village",
+            "plataforma": "Playstation 5",
+            "descripcion": "Resident Evil Village (abreviado como RE: Village y estilizado como VII.I.AGE RESIDENT EVIL, También llamado Resident Evil 8, conocido en Japón como Biohazard Village (バイオハザード ヴィレッジ Baiohazādo Virejji?) es un videojuego de terror y supervivencia de disparos en primera persona, acción y aventura desarrollado y publicado por Capcom. la novena entrega de la serie principal de Resident Evil y secuela narrativa de Resident Evil 7: Biohazard del año 2017,1​ el videojuego sigue a Ethan Winters, quien, después de un fatídico encuentro con Chris Redfield, se encuentra en un pueblo lleno de criaturas mutantes en un esfuerzo por encontrar a su hija secuestrada.",
+            "precio": 59.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/resident8.jpg?raw=true",
+            "destacado": "si",
+            "masBuscado": "no",
+            "disponibilidad": "Disponible"
+            
+        },
+        {
+            "id": 10,
+            "nombre": "Returnal",
+            "plataforma": "Playstation 5",
+            "descripcion": "Tras el aterrizaje forzoso en este mundo cambiante, Selene debe buscar en el desolado paisaje una antigua civilización para poder escapar. Sola y aislada, se ve abocada a luchar con uñas y dientes para sobrevivir. Cae derrotada una y otra vez, lo que la obliga a reiniciar su viaje cada vez que muere. A través de un sistema de juego roguelike implacable, descubrirás que conforme el planeta cambia en cada ciclo, también lo hacen los objetos a tu disposición. Cada repetición ofrece nuevas combinaciones, por lo que tendrás que esforzarte al límite y utilizar una estrategia de combate distinta cada vez",
+            "precio": 79.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/returnal.jpg?raw=true",
+            "destacado": "no",
+            "masBuscado": "no",
+            "disponibilidad": "Disponible"
+            
+        },
+        {
+            "id": 11,
+            "nombre": "Horizon Forbidden West",
+            "plataforma": "Playstation 5",
+            "descripcion": "La tierra se muere. Las rugientes tormentas y una desolación imparable causan estragos entre lo que queda de la humanidad, unas cuantas tribus dispersas, mientras nuevas y temibles máquinas merodean por sus fronteras. La vida en la Tierra se enfrenta a una nueva extinción y nadie sabe por qué.Solo Aloy es capaz de descubrir los secretos que hay detrás de estas amenazas, y restablecer el orden y el equilibrio en el mundo. Por el camino, se reunirá con viejos amigos, forjará alianzas con nuevas facciones en guerra y descubrirá la herencia de un antiguo pasado, al tiempo que intenta permanecer un paso por delante de un nuevo y aparentemente invencible enemigo.",
+            "precio": 79.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/horizon-2.jpg?raw=true",
+            "destacado": "si",
+            "masBuscado": "no",
+            "disponibilidad": "Disponible"
+            
+        },
+        {
+            "id": 12,
+            "nombre": "God of war Ragnarok",
+            "plataforma": "Playstation 5",
+            "descripcion": "Kratos y Atreus intentan mantenerse ocultos por todos los medios tras haber intentado deshacer la época final que se acerca. Entrenan cada día para lo inevitable mientras buscan cualquier modo de cambiar el curso del destino. Atreus anhela entender las pistas que dejó su madre y averiguar su profético papel en la guerra que se cierne sobre ellos. Mientras, Kratos no consigue comprender el deseo de su hijo de descubrir más sobre su identidad, que los llevará hacia los vengativos aesir. Si eso ocurre, estarán aún más cerca de repetir los malditos errores del pasado.",
+            "precio": 79.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/gow-ragnarok.jpg?raw=true",
+            "destacado": "si",
+            "masBuscado": "si",
+            "disponibilidad": "No Disponible"
+            
+        },
+        {
+            "id": 13,
+            "nombre": "Crash Bandicoot 4",
+            "plataforma": "Playstation 2",
+            "descripcion": "Crash Bandicoot: La venganza de Cortex es un juego de plataformas en el que el jugador controla a Crash Bandicoot y Coco, cuyo objetivo es reunir 25 cristales y derrotar a los principales antagonistas de la historia: Doctor Neo Cortex, su nueva super arma Crunch Bandicoot y las fuentes de energía de Crunch, Los Elementales. Gran parte del juego tiene lugar en una 'Realidad Virtual (RV) Hub Sistema', creado por Coco para ayudar a recoger los cristales a Crash.",
+            "precio": 9.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/crash-venganza.jpg?raw=true",
+            "destacado": "no",
+            "masBuscado": "no",
+            "disponibilidad": "Disponible"
+            
+        },
+        {
+            "id": 14,
+            "nombre": "Crash Nitro Kart",
+            "plataforma": "Playstation 2",
+            "descripcion": "Crash Nitro Kart, abreviado como CNK (conocido en Japón como: クラッシュ バンディクー： 爆走！ ニトロカート, Crash Bandicoot: Bakusou! Nitro Kart), es un videojuego de carreras para las consolas PlayStation 2, Xbox, Nintendo GameCube, Game Boy Advance y N-Gage de la saga Crash Bandicoot.2​3​4​5​ Fue lanzado al mercado en el año 2003 en las consolas de sobremesa y GBA, y en 2004 en la N-Gage,6​ y la versión móvil se lanzó a nivel mundial el 20 de septiembre de 2004.7​ Siendo una secuela directa de Crash Team Racing, este último desarrollado por Naughty Dog. La versión de PlayStation 2 se incluye en una compilación de 3 discos llamada 'Crash Bandicoot Action Pack', donde se incluyen aparte de Crash Nitro Kart, también Crash Twinsanity y Crash Tag Team Racing en Estados Unidos se lanzó el 12 de junio de 2007 y en Europa el 20 de julio de 2007.",
+            "precio": 5.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/crash-nitro.jpg?raw=true",
+            "destacado": "si",
+            "masBuscado": "si",
+            "disponibilidad": "Disponible"
+            
+        },
+        {
+            "id": 15,
+            "nombre": "Crash Twinsanity",
+            "plataforma": "Playstation 2",
+            "descripcion": "En Crash Twinsanity, un nuevo enemigo ha invadido la isla paraíso de Crash Bandicoot para destruirla. Extrañamente, Crash se une a su mayor enemigo, el Dr. Cortex, para salvar al mundo de esta nueva amenaza. Debido a esta inesperada unión, Crash y Cortex serán controlados como uno solo, con una mecánica de juego totalmente nueva. Los jugadores se enfrentarán a enemigos altamente reactivos, se sumergirán en entornos totalmente inmersivos y se encontrarán con personajes totalmente nuevos en la aventura más loca y divertida de todos los tiempos.En esta ocasión, Crash y su archienemigo el Dr. Cortex colaborarán para impedir que la isla donde viven sea destruida por Los Gemelos Malvados, un nuevo enemigo contra el que inevitablemente tendrán que cooperar. Ambos personajes tendrán que colaborar, mediante un sistema de control dual, para superar los diferentes obstáculos con los que se encuentren en cada nivel.",
+            "precio": 7.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/crash-twin.jpg?raw=true",
+            "destacado": "no",
+            "masBuscado": "si",
+            "disponibilidad": "No Disponible"
+            
+        },
+        {
+            "id": 16,
+            "nombre": "Crash Tag Team Racing",
+            "plataforma": "Playstation 2",
+            "descripcion": "Ebenezer von Clutch, un ciborg alemán amante de las carreras, ha creado el Parque Temático y Automovilístico del Motor, un sitio que tiene el deshonor de ser considerado el lugar más peligroso del planeta. Sin embargo, en un punto, las gemas de poder que sostienen al parque y la gema de poder negra del corazón de von Clutch que mantiene a este con vida han sido robadas. Por lo que von Clutch realiza un evento en el que, quienquiera que recupere las gemas, obtendrá la propiedad de su parque. Aun así, nadie esta interesado. En el último día en el que von Clutch puede sobrevivir sin su gema de poder negra, este se encuentra discutiendo con Pasadena O' Possum, una zarigüeya, corredora experta, y amiga de este, y Willie Wumpa Cheeks (Willie Mejillas de Wumpa en español), una fruta Wumpa gigante viva y la mascota del parque. En ese momento, el Dr. Neo Cortex, su sobrina Nina, y N.Gin, se encuentran en una persecución en autos contra Crash, Coco, y Crunch Bandicoot, sobre una autopista que lleva al Parque del Motor. Allí se estrellan todos, y von Clutch ve esto como una oportunidad para conseguir participantes para su evento. Los Bandicoots, Cortex, Nina y N.Gin se reúnen con von Clutch en una torre, donde este último rompe la cuarta pared al revelar que el es un gran fan de la franquicia Crash Bandicoot, dejando a todos confundidos. Allí les explica su propuesta, y Cortex se une al evento para así conseguir la propiedad del parque y convertirlo en una nueva base de operaciones, por lo que los Bandicoots deciden unirse también para así obtener la propiedad antes que Cortex, detener su plan, y ayudar a von Clutch. Primero, deben encontrar las gemas de poder para alimentar las zonas del parque, una a una. Finalmente, Crash logra recuperar todas las gemas del parque.",
+            "precio": 14.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/crash-tag.jpg?raw=true",
+            "destacado": "no",
+            "masBuscado": "no",
+            "disponibilidad": "Disponible"
+            
+        },
+        {
+            "id": 17,
+            "nombre": "Crash Lucha De Titanes",
+            "plataforma": "Playstation 2",
+            "descripcion": "Crash y sus amigos descansan mientras su hermana Coco finaliza un Reciclador de Mantequilla, le pide a Crash que le pase el Transvelupador (Una llave inglesa morada), pero cuando Crash la recoge aparece Cortex en su dirigible, el cual secuestra a Coco y a Aku-Aku en jaulas.y después Cortex dispara un rayo que deja congelado a crunch, Crash guarda el Transvelupador en su bolsillo y lanza el reciclador salvando a Aku-Aku, pero dejándolo en medio de la selva. Mientras, Crunch se queda congelado crash tendrá que ir a solas a buscar a Aku-Aku, después de sacar a Aku Aku de la jaula, él y Crash van por toda la isla derrotando a varias criaturas que aparecen en diferentes áreas de la isla para rescatar a Coco y llegan justo a un templo donde allí Aku-Aku y Crash descubren que Cortex y Uka-Uka están robando el Mojo Mágico, el cual Aku-Aku le dice a Crash que eso debe estar relacionado con esas criaturas que él y Crash estaban luchando. Entonces Crash y Aku-Aku se adentran en el templo, donde se enfrentan en una batalla contra Cortex, pero Crash lo derrota y Cortex le dice a Crash que cree que le ha derrotado, Uka-Uka se llevó todo el mojo y a Coco y por último Cortex huye.",
+            "precio": 9.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/crash-titanes.jpg?raw=true",
+            "destacado": "no",
+            "masBuscado": "no",
+            "disponibilidad": "Disponible"
+            
+        },
+        {
+            "id": 18,
+            "nombre": "Crash Guerra al coco maniaco",
+            "plataforma": "Playstation 2",
+            "descripcion": "Similar al anterior juego de Crash, tendrás que dominar a mutantes, algunos de ellos son nuevos que no llegaron a aparecer en Crash of the Titans. Una nueva característica en el juego son sus escenas con animaciones de dibujos animados, cada uno con una animación diferente, en la cual la mayoría de la escenas animadas son parodias de populares series animadas de televisión, tales como Dragon Ball, Los Simpson, entre otras. Otro modo en el juego es la habilidad de esquiva ataques de los titanes cuando esperemos la señal, también se agregó la habilidad de guardar titanes en el bolsillos para poder usarlos cuando los necesitamos, pero esto no funciona con los titanes de mayor tamaño (como el escorpogorila y el yocktopus), ahora los titanes pueden saltar y escalar, y ahora se agregó nuevos tipos de mojos con colores distintos, mojo rosa, mojo amarillo, mojo verde (este último en un modo contrarreloj), la hermana de Crash estará disponible para ser jugable por el segundo jugador una vez que la liberemos, solo en las versiones de Xbox 360 y Wii,en PlayStation 2 y PSP Coco es reemplazada por una versión beige de Crash.",
+            "precio": 4.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/crash-coco.jpg?raw=true",
+            "destacado": "no",
+            "masBuscado": "no",
+            "disponibilidad": "Disponible"
+            
+        },
+        {
+            "id": 19,
+            "nombre": "Monstruos S.A.",
+            "plataforma": "Playstation 2",
+            "descripcion": "Por fin estos simpáticos personajes, después de arrasar en todas las plataformas y en las taquillas de los cines llegan a Gamecube dispuestos a reventar de risa a todos los niños posibles. Tras descubrir el poder de la risa, los monstruos de Monstruópolis han ideado un nuevo modo de entrenamiento que les ayude a hacer reir a los niños.",
+            "precio": 4.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/monstruos.jpg?raw=true",
+            "destacado": "no",
+            "masBuscado": "no",
+            "disponibilidad": "Disponible"
+            
+        },
+        {
+            "id": 20,
+            "nombre": "Dragon Ball Z Budokai 3",
+            "plataforma": "Playstation 2",
+            "descripcion": "Dragon Ball Z: Budokai 3, lanzado en como Dragon Ball Z 3 (ドラゴンボールZ3, Doragon Bōru Zetto Surī), es el tercer juego de la serie Budokai. Fue desarrollado por Dimps y distribuido por Atari en América y por Bandai en Europa y Japón. Fue lanzado en 2004 para América y Europa y en 2005 para Japón exclusivamente para la consola PlayStation 2.",
+            "precio": 11.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/dbz-budokai3.jpg?raw=true",
+            "destacado": "no",
+            "masBuscado": "si",
+            "disponibilidad": "Disponible"
+            
+        },
+        {
+            "id": 21,
+            "nombre": "Gran Turismo 4",
+            "plataforma": "Playstation 2",
+            "descripcion": "Gran Turismo 4 (グランツーリスモ4 Guran Tsūrisumo Fō?, también conocido como GT4) es un videojuego para la consola PlayStation 2. Fue comercializado el 7 de septiembre de 2004 en Japón y Hong Kong (NTSC-J), el 20 de octubre de 2004 en los Estados Unidos (NTSC-U/C) y el 9 de junio de 2005 en Europa (PAL). Después de haber retrasado su lanzamiento un año y medio y haber quitado su modo en línea, Gran Turismo 4 fue uno de los juegos más esperados del 2005, y vendió un millón de copias en su primera semana de ventas en Japón. Contiene 721 automóviles (en la versión PAL) de 80 fabricantes, desde el Daimler Motor Carriage, hasta conceptos, pasando por el Nissan 350Z Gran Turismo Edition, una colaboración entre Nissan y Polyphony Digital. También contiene 51 circuitos, muchos son variantes de las originales de Gran Turismo como High-Speed Ring, Trial Mountain, Autumn Ring. Algunos circuitos importantes son Nordschleife, la versión de 20 km de Nürburgring, Suzuka Circuit, el circuito de la Sarthe, circuitos modelados en lugares importantes como el Times Square de Nueva York, Hong Kong, París y Las Vegas.",
+            "precio": 4.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/gt4.jpg?raw=true",
+            "destacado": "si",
+            "masBuscado": "no",
+            "disponibilidad": "No Disponible"
+            
+        },
+        {
+            "id": 22,
+            "nombre": "Kingdom Hearts II",
+            "plataforma": "Playstation 2",
+            "descripcion": "El juego comienza con Roxas, un chico de quince años que aparentemente vive una vida normal en Villa Crepúsculo con sus amigos. Mientras investiga con sus amigos unos extraños robos, descubre a unas criaturas que lo siguen llamados incorpóreos y a una misteriosa chica llamada Naminé. Tras un encuentro con Axel, un miembro de la Organización XIII, Roxas descubre que solo es el cascarón que se formó cuando Sora se convirtió en sincorazón (al intentar liberar el corazón de Kairi). Al descubrir a Sora en la cápsula en la que se quedó dormido un año, DiZ, un extraño personaje, le dice que es su destino unirse a Sora. Roxas acepta unirse a él diciendo que sus vacaciones terminaron, Sora despierta y junto a Donald y Goofy continúan su búsqueda del Rey y Riku, sin recordar nada de lo que paso antes de quedarse dormido. Volvió a recordar a Kairi olvidando completamente a Naminé, mientras que Kairi (un año mayor) recuerda vagamente a sus amigos. Sora vuelve a recorrer los mundos de Disney volviendo a sellar las cerraduras que se habían abierto. Durante su aventura encuentran al Rey Mickey y a Riku, pero la organización Xlll secuestra a Kairi junto con Pluto. Naminé logra salvarla y esta desaparece volviéndose a unir a Kairi.",
+            "precio": 9.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/kh2.jpg?raw=true",
+            "destacado": "si",
+            "masBuscado": "si",
+            "disponibilidad": "Disponible"
+            
+        },
+        {
+            "id": 23,
+            "nombre": "Spyro Enter the Dragonfly",
+            "plataforma": "Playstation 2",
+            "descripcion": "¿Las hadas perdidas? ¿El fuego robado? Parece que Ripto ha vuelto con un nuevo y malvado plan, y todo seguidor del dragón tiene ahora como misión pararle los pies. Repleto de puzzles trampa, nieveles deslumbrantes y armas nuevas, ¡esta es la mejor aventura de Spyro! A lo largo de nieveles gráficamente preciosos donde deslizarse y nadar, recolecta gemas y reúnete con viejos amigos, conduce tanques, pilota aviones, ovnis y salva el Reino del Dragón.",
+            "precio": 5.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/spyro-enter.jpg?raw=true",
+            "destacado": "no",
+            "masBuscado": "no",
+            "disponibilidad": "No Disponible"
+            
+        },
+        {
+            "id": 24,
+            "nombre": "Spyro a Hero's tail",
+            "plataforma": "Playstation 2",
+            "descripcion": "Un malvado dragón rojo está robando las piedras preciosas para transformarlas en rocas negras, destruyendo cualquier resquicio de vida. Spyro -con la ayuda de sus amigos- debe detenerle y conseguir destruir las rocas negras de los mundos del dragón. Si lo lográs, te adentrarás en nuevos universos y zonas de juego. Hay 5 personajes jugables, Spyro, Hunter, Sgt Byrd, Blinky y Sparx... ¡todos ellos con movimientos únicos! Y 24 niveles en escenarios completamente interactivos y mundos alucinantes. Hay muchísimos minijuegos, combates cara a cara y nuevos artilugios que potenciarán tu jugabilidad.",
+            "precio": 5.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/spyro-hero.jpg?raw=true",
+            "destacado": "si",
+            "masBuscado": "no",
+            "disponibilidad": "Disponible"
+            
+        },
+        {
+            "id": 25,
+            "nombre": "La Leyenda de Spyro",
+            "plataforma": "Playstation 2",
+            "descripcion": "Emprende el vuelo y cumple con tu destino. La ira del Maestro Oscuro ha estallado, dando paso a una era de oscuridad y odio. Para impedir que triunfe el terror, Spyro vuelve a combatir con furia junto a un aliado impensable, su antigua enemiga Cynder. Juntos llevan al límite una lucha por detener al Maestro Oscuro y salvar el mundo de su maldad. Únete a Spyro y a Cynder en esta aventura épica que finaliza de forma espectacular la trilogía de La Leyenda de Spyro.",
+            "precio": 7.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/spyro-leyenda.jpg?raw=true",
+            "destacado": "no",
+            "masBuscado": "no",
+            "disponibilidad": "Disponible"
+            
+        },
+        {
+            "id": 26,
+            "nombre": "Ratchet Gladiator",
+            "plataforma": "Playstation 2",
+            "descripcion": "Ratchet: Gladiator le da un giro a la serie en esta aventura basada en la acción que nos ofrece una nueva visión de los héroes de Lombax. Esta vez, Ratchet y su fiel compañero robot Clank se verán obligados a competir en un espectáculo de batallas clandestinas llamado DreadZone. 'Más' es, sin lugar a dudas, la palabra clave, porque hay más vehículos que requisar, más enemigos que aniquilar y muchas más armas que personalizar. El nuevo 'look' de Ratchet completa el cambio de ritmo de la serie. El combate explosivo a lo largo de múltiples circuitos sustituye al estilo cursi de plataformas y disparos de los anteriores. Como no podía ser de otra forma, el humor que hizo famosa a la serie sigue presente, aunque con un toque más mordaz y sarcástico. ¡Historia nueva, forma de juego nueva y Ratchet nuevo! El sistema de modificaciones ampliado te permitirá personalizar las armas cuantas veces quieras Modo cooperativo para dos jugadores offline, además de combate mejorado multijugador online",
+            "precio": 5.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/ratchet-gladiator.jpg?raw=true",
+            "destacado": "si",
+            "masBuscado": "no",
+            "disponibilidad": "Disponible"
+            
+        },
+        {
+            "id": 27,
+            "nombre": "Sonic Riders",
+            "plataforma": "Playstation 2",
+            "descripcion": "Sonic Riders es un juego de carreras publicado por Sega para la Playstation 2, Nintendo Gamecube, y Xbox de Microsoft. Es el cuarto videojuego de Sonic relacionada con los juegos de carreras, precedido por Sonic Drift, Sonic Drift 2 y Sonic R, y seguida por dos secuelas, Sonic Riders: Zero Gravity y Sonic Free Riders. Durante un breve tiempo la versión de Xbox del juego fue lanzado con un DVD gratis de Sonic X, que contiene cinco episodios de la primera y segunda temporadas. Este fue el último juego de Sonic The Hedgehog para la consola GameCube y Xbox, sin embargo, para la versión de PlayStation 2 del juego fue el último juego lanzado para esa consola en Japón.",
+            "precio": 4.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/sonic-riders.jpg?raw=true",
+            "destacado": "no",
+            "masBuscado": "no",
+            "disponibilidad": "Disponible"
+            
+        },
+        {
+            "id": 28,
+            "nombre": "Shrek Superslam",
+            "plataforma": "Playstation 2",
+            "descripcion": "Las versiones a menudo difieren entre las versiones para sistemas hogareños de videojuegos, para Game Boy Advance y Nintendo DS; la versión para Game Boy Advance es un videojuego de lucha en piso libre en 2D sin formato, similar a Super Smash Bros. y otros videojuegos de lucha similares. Al igual que los mencionados videojuegos de lucha, este videojuego también permite recoger objetos únicos para que los personajes los usen, desde armas y pociones. El objetivo principal del videojuego es atacar al adversario para llenar una barra Slamergy (se muestra como un icono SLAM debajo del retrato del personaje; en las versiones para Game Boy Advance y Nintendo DS, esto se conoce como polvo de hadas). Al llenarlo, los personajes tendrán su ataque principal reemplazado por su Slam Attack. En todas las versiones del juego, el aterrizaje de un Slam Attack en la oposición dicta el sistema de puntuación general, que al conectarse a menudo causa mucho caos dependiendo del escenario y el lugar donde los envía volando.",
+            "precio": 2.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/shrek-superslam.jpg?raw=true",
+            "destacado": "no",
+            "masBuscado": "no",
+            "disponibilidad": "Disponible"
+            
+        },
+        {
+            "id": 29,
+            "nombre": "Taz Wanted",
+            "plataforma": "Playstation 2",
+            "descripcion": "¡Humor elevado a la máxima potencia! Raz Wanted es un juego repleto de humor de arriba a abajo, con divertidas animaciones y disfraces. ¡Repleto de bromas trepidantes, ritmo frenético y con cuatro mundos distintos por descubrir! Ayuda a Taz a sembrar el cáos a través de distintos paises, a destruir 70 carteles de búsqueda y a esquivar a los guardas en una frenética caza de la bestia. Usa 10 disfraces alocados, crea tornados y cómete o destruye todo lo que encuentres en 10 nievesl a tu entera disposición.",
+            "precio": 3.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/taz-wanted.jpg?raw=true",
+            "destacado": "no",
+            "masBuscado": "no",
+            "disponibilidad": "Disponible"
+            
+        },
+        {
+            "id": 30,
+            "nombre": "Call of Duty Ghosts",
+            "plataforma": "Playstation 3",
+            "descripcion": "SOMOS TODO LO QUE TENEMOS. Este nuevo capítulo de la franquicia Call of Duty®: Ghosts cuenta con una nueva dinámica en la que el jugador forma parte de una nación destrozada que no lucha por la libertad, sino por sobrevivir. Las fuerzas de operaciones especiales, un misterioso grupo conocido como 'Ghosts', están al frente de la lucha contra una nueva potencia mundial tecnológicamente superior.",
+            "precio": 9.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/cod-ghost.jpg?raw=true",
+            "disponibilidad": "Disponible"
+            
+        },
+        {
+            "id": 31,
+            "nombre": "Call of Duty Black Ops",
+            "plataforma": "Playstation 3",
+            "descripcion": "Regresa la mayor serie de videojuegos de acción de todos los tiempos. Call of Duty®: Black Ops es una experiencia de entretenimiento que te transportará a conflictos de todo el mundo junto a las fuerzas especiales de élite que participaron en operaciones encubiertas y guerras secretas durante la Guerra Fría. ",
+            "precio": 19.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/bo.jpg?raw=true",
+            "disponibilidad": "No Disponible"
+            
+        },
+        {
+            "id": 32,
+            "nombre": "Call of Duty Black Ops II",
+            "plataforma": "Playstation 3",
+            "descripcion": "Superando las expectativas de los fans con respecto a esta franquicia que ha batido todos los récords, Call of Duty®: Black Ops II lleva a los jugadores a un futuro cercano, la Guerra Fría del siglo XXI, donde la tecnología y las armas han dado pie a una nueva generación bélica.",
+            "precio": 19.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/bo2.jpg?raw=true",
+            "disponibilidad": "Disponible"
+            
+        },
+        {
+            "id": 33,
+            "nombre": "God of War III",
+            "plataforma": "Playstation 3",
+            "descripcion": "Al final, solo habrá caos Asume el papel del intrépido exguerrero espartano Kratos mientras desencadena el caos sobre los dioses que lo han traicionado. Elévate desde las profundidades del Hades hasta las alturas del monte Olimpo en una empresa de sangrienta venganza. Este capítulo que cierra la trilogía de God of War® es posiblemente uno de los juegos más espectaculares de la historia de PlayStation®, perfecto para cualquiera que desee revivir la acción en una impresionante resolución de 1080p o para quienes se lo perdieron cuando se estrenó.",
+            "precio": 9.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/gow3.jpg?raw=true",
+            "disponibilidad": "Disponible"
+            
+        },
+        {
+            "id": 34,
+            "nombre": "Guitar Hero Aerosmith",
+            "plataforma": "Playstation 3",
+            "descripcion": "Guitar Hero: Van Halen es uno de los juegos de la serie Guitar Hero (serie). Como en los juegos anteriores Guitar Hero: Aerosmith y Guitar Hero: Metallica, el juego contiene 28 canciones de Van Halen junto con 19 canciones adicionales de artistas que inspiraron y/o trabajaron con la banda. El juego salió a la venta para PlayStation 2, PlayStation 3, Xbox 360, y Wii el 22 de Diciembre de 2009, en Estados Unidos, y durante el 2010 en Europa.[1] Mientrastanto, como forma de promocionarlo, viene incluido en el Guitar Hero 5. El juego fue creado por Underground Development, con gran parte de los códigos creados por Neversoft y Budcat Creations. El juego es publicado por Activision Blizzard.",
+            "precio": 2.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/ghaerosmith.jpg?raw=true",
+            "disponibilidad": "Disponible"
+            
+        },
+        {
+            "id": 35,
+            "nombre": "Guitar Hero Metallica",
+            "plataforma": "Playstation 3",
+            "descripcion": "Pónte en la piel de los Four Horsemen y siéntete como una auténtica estrella del rock en Guitar Hero Metallica. Dentro del repertorio de este título se encuentran algunas de las canciones que han hecho que esta banda pase a formar parte del paseo de la fama de la revista Kerrang: desde la intensidad del veloz Battery hasta el arpegio archiconocido de Nothing Else Matters, este título recorrerá los más de 25 años de trayectoria de la banda, sin dejar de lado ninguno de sus álbumes.",
+            "precio": 7.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/ghmetallica.jpg?raw=true",
+            "disponibilidad": "Disponible"
+            
+        },
+        {
+            "id": 36,
+            "nombre": "Guitar Hero III",
+            "plataforma": "Playstation 3",
+            "descripcion": "Guitar Hero III tiene casi todos los mismos componentes de juegos de Guitar Hero previos; los jugadores todavía usan un mando de guitarra que permite al jugador tocar las notas coloreadas que vienen en el diapasón en medio de la pantalla con la banda de fondo tocando la canción. Hay algunas pequeñas diferencias, más que nada en como las notas son tocadas. Estas diferencias incluyen que las notas de combo estrella también pueden ser Hammer Ons y Pull Offs para imitar mejor como un guitarrista real tocaría la canción. El alcance del diapasón tambien ha sido extendido, haciendo más fáciles las partes más complicadas.",
+            "precio": 2.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/gh3.jpg?raw=true",
+            "disponibilidad": "Disponible"
+            
+        },
+        {
+            "id": 37,
+            "nombre": "Armados hasta los dientes",
+            "plataforma": "Playstation 3",
+            "descripcion": "Se trata de la aventura más grande y espectacular que hayas vivido jamás, gracias a la potencia de PS3, con más destrucción desenfrenada y estrafalario armamento que nunca. Lucharás en mundos futuristas con gráficos asombrosos, controlando las armas con el mando inalámbrico Sixaxis sensible al movimiento. Sembrarás el caos en las ciudades, en las nubes y exóticos enclaves espaciales, podras mejorar y personalilzar tus nuevas armas y, sobre todo, destruirás un robot malvado tras otro, envuelto en la explosiva y cómica vorágine destructiva que adoras de Ratchet & Clank.",
+            "precio": 19.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/ratchet-armados.jpg?raw=true",
+            "disponibilidad": "No Disponible"
+            
+        },
+        {
+            "id": 38,
+            "nombre": "En busca del tesoro",
+            "plataforma": "Playstation 3",
+            "descripcion": "Ratchet & Clank: En busca del tesoro, conocido en América del Norte como Ratchet & Clank Future: Quest for Booty es el octavo juego de la saga Ratchet & Clank. En América del Norte este juego era el segundo que salio de la saga Future, (solo en América y Japón), donde empezó la mejor calidad de juego y el segundo por salir a la plataforma Blu-Ray Disc de la PS3. Este juego, es uno de los más cortos de la saga, ya que se basa en un máximo de 4 horas de juego, ya que no necesitaba más trama ni aventuras, teniendo todo lo necesario.En este juego Talwyn Apogee y Ratchet van al Planeta Merdegraw para encontrar al Capitán Darkwater para poder llegar a la Dimensión Zoni y recuperar a Clank. Pero cuando llegaron al barco del Capitán Slag, creyendo que era de Darkwater, vieron a Rusty Pete con la cabeza del capitán Slag, llorando por el.",
+            "precio": 14.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/tesoro.jpg?raw=true",
+            "disponibilidad": "Disponible"
+            
+        },
+        {
+            "id": 39,
+            "nombre": "Atrapados en el tiempo",
+            "plataforma": "Playstation 3",
+            "descripcion": "Ratchet y Clank: Atrapados en el tiempo (A crack in time en ingles), es la continuacion de Ratchet & Clank: En busca del tesoro. Es el octavo juego de la saga. Fue lanzado el 27 de octubre de 2009 en norteamerica, el 4 de noviembre en Europa y el 19 de noviembre en Japón. Es el ultimo juego de la trilogia future (PS3) y continua con los acontecimientos de Ratchet & Clank: En busca del Tesoro.Ratchet descubrio que Clank estaba en manos del Dr Nefarius y entonces decide partir en su busca para rescatarlo.El juego alterna entre momentos en los que debes jugar con Ratchet, en la busqueda de Clank, y otros en los que deberas manejar a Clank, mientras explora el Gran Reloj. Ambos aprenderan sobre su pasado y decidiran sobre sus futuros. Este es el tercer juego que incluye al Museo Insomniac, junto con Ratchet & Clank 2: Totalmente a tope y Ratchet & Clank 3.",
+            "precio": 19.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/tiempo.jpg?raw=true",
+            "disponibilidad": "Disponible"
+            
+        },
+        {
+            "id": 40,
+            "nombre": "Ratchet and Clank Nexus",
+            "plataforma": "Playstation 3",
+            "descripcion": "Ratchet & Clank: Nexus es un juego que salió para PlayStation 3, el 14 de noviembre en Europa del año 2013. La escencia original de original de Ratchet & Clank vuelve como los creadores prometieron. Tras el descontento con Ratchet & Clank: QForce, los desarrolladores garantizaron que esta nueva entrega pondrá punto y final a la saga Future (AHLD, EBDT y AEET). El juego regresa a la jugabilidad clásica: fases de plataformas, humor típico de la serie y la aventura para un solo jugador.En esta aventura reaparecen antiguos personajes que ya estuvieron a cierto grado de ausencia, como Talwyn Apogee, Cronk, Zephyr y nuevos personajes (como Vendra, Neftin y el Señor Ojo).",
+            "precio": 39.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/nexus.jpg?raw=true",
+            "disponibilidad": "Disponible"
+            
+        },
+        {
+            "id": 41,
+            "nombre": "Gran Turismo 6",
+            "plataforma": "Playstation 3",
+            "descripcion": "También hay una función donde los jugadores pueden conducir en la Luna con el Lunar Rover.El VideoJuego tiene 117 Circuitos para conducir entre más de 1200 Autos. En el modo En línea, Obtienen eventos de Temporada, Salas En línea, Partida Rápida y Comunidad. También hay una App llamada Track Path Editor para construir los circuitos y conducirlos para En línea o Offline. Es el Primer juego de la Saga en obtener una App oficial, aunque esta ya se descontinuo con el cierre de sus servidores en línea. También tuvo una edición del 15° aniversario en la cual los compradores tenían un código que incluía 1.000.000 de créditos para usar en el juego , 20 coches que poseían una pintura y unas mejoras especiales como el KTM X-Bow o el Pagani Huayra , 2 pinturas especiales (para los demás coches ) un mono y un casco especial para el personaje y 4 Avatares exclusivos para el perfil de PlayStationNetwork",
+            "precio": 4.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/gt6.jpg?raw=true",
+            "disponibilidad": "Disponible"
+            
+        },
+        {
+            "id": 42,
+            "nombre": "Resistance Fall of Man",
+            "plataforma": "Playstation 3",
+            "descripcion": "Resistance: Fall of Man (Traducido como Resistencia: La caída del hombre) es un shooter de ciencia ficción en primera persona exclusivo para la PlayStation 3, desarrollado por Insomniac Games, y distribuido por Sony Computer Entertainement.Se estreno en el 11 y 14 de noviembre de 2006 para Estados Unidos y Japon,respectivamente en Europa fue el 23 de marzo de 2007. El juego se sitúa en 1951 se se desarrolla como una realidad alternativa en donde la Segunda Guerra Mundial nunca ocurrió,en lugar de eso una rara enfermedad llamada virus Quimera asoló Europa,y pone al jugador en los pasos de el sargento estadounidense Nathan Hale y la lucha de las fuerzas estadounidenses y británicas por derrotar a las peligrosas Quimeras.",
+            "precio": 3.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/resistance.jpg?raw=true",
+            "disponibilidad": "No Disponible"
+            
+        },
+        {
+            "id": 43,
+            "nombre": "Crash Boom Bang",
+            "plataforma": "Nintendo DS",
+            "descripcion": "Crash Boom Bang!, conocido en Japón como Crash Bandicoot Festival (クラッシュ バンディクー フェスティバル) es un videojuego desarrollado por Dimps y publicado por Sierra Enternameint para la consola Nintendo DS. Fue lanzado en Japón el 20 de julio de 2006, en América del Norte el 10 de octubre de 2006, en Europa el 27 de octubre de 2006, y en Australia el 2 de noviembre de 2006. Se trata del primer (y hasta ahora único) juego de la serie Crash Bandicoot a ser desarrollado por una empresa japonesa, la primera en ser lanzada en Japón antes de que Estados Unidos y (hasta ahora) el último en ser lanzado en Japón.",
+            "precio": 4.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/crash-boom.jpg?raw=true",
+            "disponibilidad": "Disponible"
+            
+        },
+        {
+            "id": 44,
+            "nombre": "Nintendog Labrador",
+            "plataforma": "Nintendo DS",
+            "descripcion": "El juego permite una gran interacción entre el jugador y la mascota gracias a las características únicas de Nintendo DS. Por medio de la pantalla táctil se puede acariciar, jugar, pasear o bañar al perro. Además, haciendo uso de dicha pantalla y del micrófono (con reconocimiento de voz), se pueden crear comandos de voz para entrenar a la mascota y, así, hacer que realice trucos, aprenda su nombre,... En definitiva, para comunicarse y hablar con el cachorro por medio de la voz. Este software utiliza el reloj interno del sistema, para darle realismo; de esta manera, los perros actuaran de acuerdo a la hora del día en que sea utilizado. También puedes adiestrarlo para que te haga caso como por ejemplo: puedes decirles que se siente, se tumbe y muchísimas cosas más. El videojuego dispone también de opciones para conectar con otra consola (Modo Guau), de forma que las mascotas virtuales interactúen entre sí. Este modo deja la consola en estado de hibernación, creando un radio de acción dentro del cual se buscan personas que tengan una Nintendo DS con el juego Nintendogs. El jugador puede llevar la consola en el bolso mientras pasea por la calle, y cuando el Modo Guau detecte a otro usuario de Nintendogs dentro de su radio de acción (30 metros, aproximadamente), un ladrido avisará y se iniciará, optativamente, una sesión de chat y la interacción entre las mascotas.",
+            "precio": 4.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/labrador.jpg?raw=true",
+            "disponibilidad": "Disponible"
+            
+        },
+        {
+            "id": 45,
+            "nombre": "Nintendog Dálmata",
+            "plataforma": "Nintendo DS",
+            "descripcion": "El juego permite una gran interacción entre el jugador y la mascota gracias a las características únicas de Nintendo DS. Por medio de la pantalla táctil se puede acariciar, jugar, pasear o bañar al perro. Además, haciendo uso de dicha pantalla y del micrófono (con reconocimiento de voz), se pueden crear comandos de voz para entrenar a la mascota y, así, hacer que realice trucos, aprenda su nombre,... En definitiva, para comunicarse y hablar con el cachorro por medio de la voz. Este software utiliza el reloj interno del sistema, para darle realismo; de esta manera, los perros actuaran de acuerdo a la hora del día en que sea utilizado. También puedes adiestrarlo para que te haga caso como por ejemplo: puedes decirles que se siente, se tumbe y muchísimas cosas más. El videojuego dispone también de opciones para conectar con otra consola (Modo Guau), de forma que las mascotas virtuales interactúen entre sí. Este modo deja la consola en estado de hibernación, creando un radio de acción dentro del cual se buscan personas que tengan una Nintendo DS con el juego Nintendogs. El jugador puede llevar la consola en el bolso mientras pasea por la calle, y cuando el Modo Guau detecte a otro usuario de Nintendogs dentro de su radio de acción (30 metros, aproximadamente), un ladrido avisará y se iniciará, optativamente, una sesión de chat y la interacción entre las mascotas.",
+            "precio": 5.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/dalmata.jpg?raw=true",
+            "disponibilidad": "No Disponible"
+            
+        },
+        {
+            "id": 46,
+            "nombre": "Mario y Sonic",
+            "plataforma": "Nintendo DS",
+            "descripcion": "Este modo permite acceder al modo historia, el cuál es de un solo jugador. La historia consiste en que Eggman y Bowser intentan hacer que Mario y Sonic se queden atrapados en un videojuego llamado Tokyo 64, basado en las olimpiadas de Tokyo de 1964. Sin embargo, a parte de Mario y Sonic, Eggman, Bowser y Toad también quedan atrapados, debiendo colaborar Tails y Luigi para rescatarlos. Permite jugar a varios jugadores a los eventos del juego mediante comunicación local. Para poder jugar todos los jugadores que se vayan a conectar necesitan su propia nintendo switch con su copia del juego.",
+            "precio": 4.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/mario-sonic.jpg?raw=true",
+            "disponibilidad": "Disponible"
+            
+        },
+        {
+            "id": 47,
+            "nombre": "God of War",
+            "plataforma": "Playstation 4",
+            "descripcion": "El juego inicia con Kratos de pie junto a un árbol y después de acercarse a este, lo tala y se lo lleva junto Atreus a su casa. El árbol fue puesto a un lado de la casa porque ya no era necesario del todo. Atreus y Kratos entran a la casa y se despiden de Faye, la cual esta envuelta con una especie de tela y Kratos la carga hacia los troncos apilados, la pone sobre ellos y con el hacha enciende la madera para comenzar con la cremación. Esta, había pedido como último deseo que esparzan sus cenizas sobre la cima de la montaña más alta de todos los reinos. Mientras la cremación se lleva a cabo, en un impulso Atreus agarra el cuchillo de su madre, lo que provoca que se queme la mano, luego Kratos le dice que el cuchillo ahora le pertenece. Luego los dos salen para que Atreus demuestre lo que sabe.",
+            "precio": 79.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/gow.jpg?raw=true",
+            "disponibilidad": "No Disponible"
+            
+        },
+        {
+            "id": 48,
+            "nombre": "Pokemon Rangers",
+            "plataforma": "Nintendo DS",
+            "descripcion": "Pokémon Ranger (ポケモンレンジャー en japonés) es un juego de Acción/RPG desarrollado para Nintendo DS. Es el primer juego de la saga Pokémon Ranger del que saldrían otros títulos más adelante. Se caracteriza por capturar a los Pokémon trazando círculos en la pantalla táctil de la consola para activar el capturador, y usar la ayuda de los Pokémon capturados para superar obstáculos, tras lo cual después de haber usado las Poké-Ayudas, los pokémon se marcharan. El 25 de febrero de 2016 el juego original se puso a la venta para la Consola Virtual de Wii U en países de Europa, más tarde salió en Japón, el 13 de abril de 2016, y en América, el 21 de julio de 2016.",
+            "precio": 14.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/ranger.jpg?raw=true",
+            "disponibilidad": "Disponible"
+            
+        },
+        {
+            "id": 49,
+            "nombre": "Pokemon Edición Negra",
+            "plataforma": "Nintendo DS",
+            "descripcion": "Pokémon Negro y Pokémon Blanco (Pokémon Black y Pokémon White en inglés, ポケットモンスター ブラック Pocket Monsters Black y ポケットモンスター ホワイト Pocket Monsters White en japonés) son dos videojuegos de Pokémon pertenecientes a la quinta generación. Fueron anunciados oficialmente por la web oficial de Pokémon en Japón el día 9 de abril de 2010. Se conoce que salieron a la venta el 18 de septiembre del 2010 en Japón, También llamados Pokémon Edición Negra y Pokémon Edición Blanca, fueron lanzados el 18 de Septiembre en Japón y en tan solo 2 días obtuvo el récord de más vendidos en menos tiempo de Nintendo, con 2.63 millones de copias vendidas. Por su parte en España salió a la venta el 4 marzo de 2011 y en América el 6 de marzo del mismo año.",
+            "precio": 59.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/pokemon-negra.jpg?raw=true",
+            "disponibilidad": "Disponible"
+            
+        },
+        {
+            "id": 50,
+            "nombre": "Pokemon Edición Blanca 2",
+            "plataforma": "Nintendo DS",
+            "descripcion": "Pokémon Edición Negra 2 y Pokémon Edición Blanca 2 (Pokémon Black Version 2 y Pokémon White Version 2 en inglés, ポケットモンスター ブラック２ Pocket Monsters Black 2 y ポケットモンスター ホワイト２ Pocket Monsters White 2 en japonés) son dos videojuegos pertenecientes a la quinta generación y los sucesores de Pokémon Edición Negra y Pokémon Edición Blanca. Fueron anunciados el 26 de febrero de 2012 en el programa de televisión japonés Pokémon Smash! Su salida al mercado japonés fue el 23 de junio del 2012, mientras que en América salió el 7 de octubre del 2012, en Europa el 12 de octubre (11 para España) del 2012 y en Australia el 11 de octubre del 2012.",
+            "precio": 59.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/pokemon-blanca2.jpg?raw=true",
+            "disponibilidad": "Disponible"
+            
+        },
+        {
+            "id": 51,
+            "nombre": "Shrek",
+            "plataforma": "Nintendo DS",
+            "descripcion": "Hace mucho tiempo, en una lejana ciénaga, vivía un ogro llamado Shrek. Un día, su preciada soledad se ve interrumpida por un montón de personajes de cuento de hadas que invaden su casa. Todos fueron desterrados de su reino por el malvado Lord Farquaad. Decidido a devolverles su reino y recuperar la soledad de su ciénaga, Shrek llega a un acuerdo con Lord Farquaad y va a rescatar a la princesa Fiona, la futura esposa del rey. Sin embargo, la princesa esconde un oscuro secreto.",
+            "precio": 4.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/shrek-carreras.jpg?raw=true",
+            "disponibilidad": "Disponible"
+            
+        },
+        {
+            "id": 52,
+            "nombre": "Pokemon Edición X",
+            "plataforma": "Nintendo 3DS",
+            "descripcion": "Pokémon X y Pokémon Y (Pokémon X y Pokémon Y en inglés, ポケットモンスター Ｘ Pocket Monsters X y ポケットモンスター Ｙ Pocket Monsters Y en japonés) es la pareja de videojuegos de Pokémon correspondiente a la sexta generación y desarrollada para la familia de consolas Nintendo 3DS. Como los demás juegos de la serie principal, son videojuegos de rol (RPG) donde el jugador controla a un joven personaje masculino o femenino que se embarca en una aventura Pokémon. Su viaje le llevará a recorrer la región de Kalos, donde se desarrolla la historia de los juegos, para conseguir ocho medallas de gimnasio y poder participar en la Liga Pokémon. Pero su aventura no estará exenta de obstáculos, pues una misteriosa organización se dispone a poner en marcha un malvado plan.",
+            "precio": 19.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/x.jpg?raw=true",
+            "disponibilidad": "No Disponible"
+            
+        },
+        {
+            "id": 53,
+            "nombre": "Pokemon Edición Sol",
+            "plataforma": "Nintendo 3DS",
+            "descripcion": "Pokémon Sol y Pokémon Luna (Pokémon Sun y Pokémon Moon en inglés, ポケットモンスター サン Pocket Monsters Sun y ポケットモンスター ムーン Pocket Monsters Moon en japonés) son dos videojuegos pertenecientes a la séptima generación anunciados para las consolas de la familia de Nintendo 3DS. Fueron anunciados en el Pokémon Direct del día 26 de febrero de 2016.",
+            "precio": 14.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/sol.jpg?raw=true",
+            "disponibilidad": "Disponible"
+            
+        },
+        {
+            "id": 54,
+            "nombre": "Pokemon Edición Ultrasol",
+            "plataforma": "Nintendo 3DS",
+            "descripcion": "Pokémon Ultrasol y Pokémon Ultraluna (Pokémon Ultra Sun y Pokémon Ultra Moon en inglés, ポケットモンスター ウルトラサン Pocket Monsters UltraSun y ポケットモンスター ウルトラムーン Pocket Monsters UltraMoon en japonés) son dos videojuegos pertenecientes a la séptima generación anunciados para las consolas de la familia de Nintendo 3DS. Fueron anunciados en el Pokémon Direct del día 6 de junio de 2017.Su lanzamiento se llevó a cabo el 17 de noviembre de 2017.",
+            "precio": 19.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/ultrasol.jpg?raw=true",
+            "disponibilidad": "Disponible"
+            
+        },
+        {
+            "id": 55,
+            "nombre": "Super Street Fighter IV",
+            "plataforma": "Nintendo 3DS",
+            "descripcion": "Street Fighter IV volvió en febrero del año pasado demostrando que los malos agüeros en el mundo del videojuego no siempre se cumplen. Muchas sagas se han estrellado a la hora de pasar a las tres dimensiones o a los nuevos tiempos, y de hecho Street Fighter ya lo había hecho con sus entregas Ex, pero Street Fighter IV demostró que la mayor potencia gráfica de las consolas actuales no estaba reñida con la jugabilidad de toda la vida, y el retorno supuso una gran satisfacción para los aficionados a los videojuegos. Tanto a los que vivieron esas tardes de principios de los 90 arremolinados en torno a una máquina recreativa con el emblemático Street Fighter II, como a aquellos más jóvenes, para los que Tekken era el juego de lucha, y descubrieron en Street Fighter IV otra forma de jugar, que de nueva no tenía nada.",
+            "precio": 9.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/sf4.jpg?raw=true",
+            "disponibilidad": "No Disponible"
+            
+        },
+        {
+            "id": 56,
+            "nombre": "Tom Clancys",
+            "plataforma": "Nintendo 3DS",
+            "descripcion": "Tom Clancy's Ghost Recon Wildlands es un videojuego desarrollado y producido por Ubisoft para las paltaformas de PC, PS4 y Xbox One. Se trata de la décima entrega de la saga Ghost Recon de Ubisoft, y nos ofrece una propuesta de disparos y acción en tercera persona mientras recorremos un mundo abierto con un gran componente táctico, en el que la cooperación entre jugadores será vital para lograr el éxito.",
+            "precio": 4.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/tom-clancys.jpg?raw=true",
+            "disponibilidad": "Disponible"
+            
+        },
+        {
+            "id": 57,
+            "nombre": "Pokemon Edicion Rubí",
+            "plataforma": "Game Boy Advance",
+            "descripcion": "Pokémon Rubí y Pokémon Zafiro (Pokémon Ruby y Pokémon Sapphire en inglés, ポケットモンスター ルビー Pocket Monsters Ruby y ポケットモンスター サファイア Pocket Monsters Sapphire en japonés) son los primeros videojuegos de Pokémon de la tercera generación. También llamados 'Pokémon Edición Rubí' y 'Pokémon Edición Zafiro', aparecieron en español el 25 de julio de 2003, siendo las primeras ediciones de Pokémon para Game Boy Advance, contando así con una calidad gráfica superior a sus antiguas ediciones y novedades en lo que se refiere al entrenamiento de los Pokémon, una región nueva, Hoenn, y también nuevos Pokémon, en concreto 135 nuevas especies",
+            "precio": 29.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/rubi.jpg?raw=true",
+            "disponibilidad": "Disponible"
+            
+        },   
+        {
+            "id": 58,
+            "nombre": "Pokemon Edición Esmeralda",
+            "plataforma": "Game Boy Advance",
+            "descripcion": "Pokémon Esmeralda (Pokémon Emerald en inglés, ポケットモンスター エメラルド Pocket Monsters Emerald en japonés) es la reedición que cierra la tercera generación iniciada por Pokémon Rubí y Zafiro. También llamado 'Pokémon Edición Esmeralda', en ella nos adentrábamos en la 3ª generación, en la cual 135 nuevos Pokémon nos acechaban. Era un gran paso de la Game Boy Color a la Game Boy Advance. Básicamente este es igual al anterior, pero añadiéndose un montón de novedades e información que hacen que el juego sea aún más completo.",
+            "precio": 119.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/esmeralda.jpg?raw=true",
+            "disponibilidad": "No Disponible"
+            
+        },
+        {
+            "id": 59,
+            "nombre": "Crash Nitro Kart & Spyro",
+            "plataforma": "Game Boy Advance",
+            "descripcion": "Crash Nitro Kart, abreviado como CNK (conocido en Japón como: クラッシュ バンディクー： 爆走！ ニトロカート, Crash Bandicoot: Bakusou! Nitro Kart), es un videojuego de carreras para las consolas PlayStation 2, Xbox, Nintendo GameCube, Game Boy Advance y N-Gage de la saga Crash Bandicoot.2​3​4​5​ Fue lanzado al mercado en el año 2003 en las consolas de sobremesa y GBA, y en 2004 en la N-Gage,6​ y la versión móvil se lanzó a nivel mundial el 20 de septiembre de 2004.7​ Siendo una secuela directa de Crash Team Racing, este último desarrollado por Naughty Dog. La versión de PlayStation 2 se incluye en una compilación de 3 discos llamada 'Crash Bandicoot Action Pack', donde se incluyen aparte de Crash Nitro Kart, también Crash Twinsanity y Crash Tag Team Racing en Estados Unidos se lanzó el 12 de junio de 2007 y en Europa el 20 de julio de 2007",
+            "precio": 7.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/crash-pack.jpg?raw=true",
+            "disponibilidad": "Disponible"
+            
+        },
+        {
+            "id": 60,
+            "nombre": "Asterix & Obelix",
+            "plataforma": "Game Boy Advance",
+            "descripcion": "Asterix & Obelix XXL (Astérix y Obélix XXL en castellano) es un videojuego de acción-aventura lanzado en noviembre de 2003 para PlayStation 2 en Europa, y en junio de 2004 para las plataformas Nintendo GameCube, Game Boy Advance y PC, además de una versión lanzada en Estados Unidos únicamente para PlayStation 2, renombrada como Asterix & Obelix: Kick Buttix. Fue desarrollado por la compañía Étranges Libellules y publicado por Atari. El argumento y el diseño del juego están basados en la serie de cómics Astérix y Obélix de René Goscinny y Albert Uderzo.1​",
+            "precio": 6.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/asterix.jpg?raw=true",
+            "disponibilidad": "Disponible"
+            
+        },
+        {
+            "id": 61,
+            "nombre": "Shin Chan",
+            "plataforma": "Game Boy Advance",
+            "descripcion": "Se muestran unas pequeñas sombras (los antagonistas) tramando el plan Un nuevo parque, llamado Shock Gahn acaba de inaugurarse cerca de Kasukabe. El parque es temático, y trata sobre muñecos conocidos, aunque también incluyen algunos nuevos (que después serían enemigos). Shin Chan y sus amigos se encuentran en Parque del Río en Kasukabe. Mientras hablaban, saltó el tema de conversación de Shock Gahn. Es el momento en el que Shin Chan menciona que irá el próximo domingo a visitarlo, y que si ellos quieren venir con él. Todos dicen que sí.",
+            "precio": 6.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/shinchan.jpg?raw=true",
+            "disponibilidad": "Disponible"
+            
+        },
+        {
+            "id": 62,
+            "nombre": "Namco Museum Aniversary",
+            "plataforma": "Game Boy Advance",
+            "descripcion": "Si eres de esos que sueltan una lagrimita cada vez que recuerdas el clásico “comecocos” o las muchas horas que pasaste jugando a los “marcianitos”, estás de enhorabuena.Este recopilatorio reúne las primeras recreativas que Namco sacó al mercado, desde Pac-Man hasta Galaxian, pasando por Pole Position, Rolling Thunder, …, y así hasta 16 títulos de valor incalculable, que por derecho propio ya han entrado a formar parte de la historia de los videojuegos.Todos ellos mantienen intactos sus gráficos originales y la jugabilidad que los ensalzó al olimpo del ocio electrónico. Sin duda, una tentadora propuesta para los más nostálgicos, o aquellos historiadores del píxel que deseen conocer de primera mano los comienzos de esta gloriosa industria.",
+            "precio": 4.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/namco.jpg?raw=true",
+            "disponibilidad": "Disponible"
+            
+        },
+        {
+            "id": 63,
+            "nombre": "Kingdom Hearts",
+            "plataforma": "Playstation 2",
+            "descripcion": "Muchos de estos juegos se estrenaron para múltiples consolas a lo largo de varias generaciones (Playstation 2, Game Boy Advance, Nintendo DS…), así que es normal que no hayamos podido jugar a todos. Por suerte, gracias a remasterizaciones como Kingdom Hearts HD 1.5 ReMIX y Kingdom Hearts HD 2.5 ReMIX, algunos han sido recopilados en packs y adaptados a las nuevas generaciones de consolas para que podamos disfrutar de ellos.  Como sabemos que Kingdom Hearts maneja conceptos difíciles de entender y ha habido muchos saltos temporales a lo largo de la cronología, es fácil perderse en la trama. Por ello, hemos elaborado un resumen de toda la saga (desde Kingdom Hearts X Back Cover hasta Kingdom Hearts 3D: Dream Drop Distance) que te puede servir de referencia para que no tengas que volver a jugar a todos antes del estreno de Kingdom Hearts III.",
+            "precio": 9.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/kh1.jpg?raw=true",
+            "disponibilidad": "Disponible"
+            
+        },
+        {
+            "id": 64,
+            "nombre": "The Last of Us 2",
+            "plataforma": "Playstation 4",
+            "descripcion": "7 años después llega la segunda parte, una entrega que viene a multiplicar de manera casi exponencial lo que hizo tan especial a la primera, llevando al jugador a debates morales que crean una sensación de juego totalmente única. Y lo logra elevando al máximo dos de las claves de la primera entrega. Aunque en la mayoría de la primera parte llevabas a Joel, muchos jugadores recuerdan con especial cariño el pasaje de Ellie. A punto de morir, la pequeña acaba matando a machetazos a un horrible agresor y termina llorando entre los brazos de un Joel que ya la trata como una hija. Poco después, el conocido como momento jirafas nos devolvía, un poco, la fe en la inocencia de la pequeña. Por un lado teníamos a esta joven, que va pudriendo su interior ante un mundo oscuro, pero cuya luz se resiste a desaparecer del todo. Por otro, tenemos a Joel, que tiene la posibilidad de salvar al mundo pero que, sobre todo, ha recuperado con Ellie esa vena paternal que ya creía olvidada.",
+            "precio": 69.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/tlof2.jpg?raw=true",
+            "destacado": "no",
+            "masBuscado": "si",
+            "disponibilidad": "Disponible"
+            
+        },
+        {
+            "id": 65,
+            "nombre": "Bioshock",
+            "plataforma": "Playstation 4",
+            "descripcion": "Mientras explora la ciudad de Rapture en el fondo del océano Atlántico, el personaje protagonista, Jack, se verá obligado a luchar contra seres humanos mutados debido a la adicción a una sustancia genética llamada ADAM. El protagonista tendrá a su favor productos desarrollados a partir de dicha sustancia, conocidos como plásmidos, mejorando e ideando nuevas armas, y experimentando con diferentes técnicas de batalla con todas las posibilidades que ello conlleva. La filosofía, arquitectura y sociedad están basadas en la ideología del magnate Andrew Ryan, fundador de Rapture y propietario de Ryan Industries, personaje que a su vez está fuertemente inspirado en los trabajos de Ayn Rand. El juego goza de gran cantidad de críticas positivas, numerosos premios y nominaciones a estos, además de ocupar el tercer puesto en la escala de clasificación de videojuegos para Xbox 360, y el cuarto para PC.",
+            "precio": 39.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/bioshock.jpg?raw=true",
+            "destacado": "no",
+            "masBuscado": "no",
+            "disponibilidad": "Disponible"
+            
+        },
+        {
+            "id": 66,
+            "nombre": "Crash Trilogy",
+            "plataforma": "Playstation 4",
+            "descripcion": "Crash Bandicoot N. Sane Trilogy es un titulo co-desarrollado por Vicarious Vision y Toys for Bob publicado por Activision Blizzard. Esta colección consta de las remasterizaciones de los clásicos para PlayStation: Crash Bandicoot, Crash Bandicoot 2: Cortex Strikes Back y Crash Bandicoot 3: Warped. Su lanzamiento fue primero como exclusiva temporal para PlayStation 4 en 2017 y posteriormente para otras plataformas el siguiente año. La remasterización de los tres grandes juegos de los años 90' contiene mejoras a nivel visual, banda sonora rehecha desde cero, diálogos re-grabados y en alta definición, un sistema para salvar partida mejorado, y añadidos extras con el fin de mejorar más aún la experiencia de juego.",
+            "precio": 39.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/crash-trilogy.jpg?raw=true",
+            "destacado": "no",
+            "masBuscado": "no",
+            "disponibilidad": "No Disponible"
+            
+        },
+        {
+            "id": 67,
+            "nombre": "Crash Team Racing",
+            "plataforma": "Playstation 4",
+            "descripcion": "El gran premio (Grand Prix en inglés) fue una nueva modalidad del juego de poder jugar eventos para conseguir nuevos personajes, nuevas pistas, carros, skins, ítems y calcomanías mediante desafíos a modo de eventos. Consistía en ir acumulando puntos para ir llenando el indicador de nitro e ir ganando los premios, entre más lleno estuviese, mejores serían los premios. El porcentaje del indicador se llenaba más rápido si se jugaba con ciertos personajes y carros. Como recompensa por quedar dentro del 5% de los mejores jugadores, en cada gran premio se otorgó un carro llamado campeón inspirado en la marca de automóviles Lamborghini, así como unas llantas especiales y un estampado temático correspondiente a cada temporada. Cada evento duró un mes aproximadamente y tuvo un total de ocho gran premio, desde julio de 2019 a febrero de 2020.",
+            "precio": 39.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/ctr.jpg?raw=true",
+            "destacado": "no",
+            "masBuscado": "no",
+            "disponibilidad": "Disponible"
+            
+        },
+        {
+            "id": 68,
+            "nombre": "Crash Bandicoot 4 Its About",
+            "plataforma": "Playstation 4",
+            "descripcion": "Crash Bandicoot 4: It's About Time es un videojuego desarrollado por Toys for Bob y editada por Activision, lanzado el 2 de octubre del 2020 para PlayStation 4 y Xbox One; mas adelante se planificaría su lanzamiento para la PS5 y Xbox Series X. Es el décimo sexto juego de la saga Crash Bandicoot, y el primero después de 13 años sin contar los remakes de la trilogía original. El 19 de junio del 2020, el Comité de Calificación de Juegos Digitales de Taiwán presentó una calificación para el juego, revelando su título, el cuadro de marcador de posición y una breve sinopsis de la trama. Dicho cuadro también revelaba al estudio detrás del videojuego: Toys for Bob, así como las plataformas para las cuales se lanzaría el título, es decir PS4 y Xbox One. Se pueden ver cuatro nuevas máscaras en la obra de arte.",
+            "precio": 69.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/crash-about.jpg?raw=true",
+            "destacado": "si",
+            "masBuscado": "no",
+            "disponibilidad": "Disponible"
+            
+        },
+        {
+            "id": 69,
+            "nombre": "Spyro Trilogy",
+            "plataforma": "Playstation 4",
+            "descripcion": "Este videojuego es un remake recopilatorio de la trilogía original de Spyro lanzada para PlayStation. Al igual que en los videojuegos originales, el protagonista es Spyro, un pequeño dragón morado que cuenta con habilidades como escupir fuego, saltar y volar, que le permiten enfrentarse en diversas aventuras contra Gnasty Gnorc, Ripto y La Hechicera, aunque hay otros personajes jugables como Sheila y Cazador. La banda sonora fue remasterizada por Stewart Copeland (exbaterista de The Police) y existe la opción de ser alternada por la música original mediante la configuración del juego. También fue incluido como novedad el modo contrarreloj, las personalidades de los dragones rescatados en el primer videojuego y se conservaron los trucos originales, y el hermano adoptivo de Spyro; la libélula Sparx que calcula el estado de salud y el nivel de Spyro.",
+            "precio": 39.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/spyro-trilogy.jpg?raw=true",
+            "destacado": "no",
+            "masBuscado": "no",
+            "disponibilidad": "Disponible"
+            
+        },
+        {
+            "id": 70,
+            "nombre": "SpiderMan",
+            "plataforma": "Playstation 4",
+            "descripcion": "Marvel's Spider-Man es un videojuego de acción-aventura basado en el superhéroe de Marvel Comics, Spider-Man. Desarrollado por Insomniac Games y publicado por Sony Interactive Entertainment. Su fecha de lanzamiento fue el 7 de septiembre de 2018. Se trata del primer título licenciado del estudio Insomniac. El juego cuenta una historia completamente nueva sobre Spider-Man, y no está atada a una película o cómic. El juego cubre aspectos tanto de Peter Parker como de Spider-Man y cuenta con un héroe arácnido más experimentado.",
+            "precio": 69.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/spider.jpg?raw=true",
+            "destacado": "si",
+            "masBuscado": "si",
+            "disponibilidad": "No Disponible"
+            
+        },
+        {
+            "id": 71,
+            "nombre": "Ratchet and Clank PS4",
+            "plataforma": "Playstation 4",
+            "descripcion": "Ratchet & Clank es un vídeojuego de PlayStation 4 que fue estrenado el 12 de abril de 2016 en Norteamérica el 20 de abril en Europa. El juego sirve como reinicio de la saga de Ratchet & Clank. La historia trata sobre Ratchet, un Lombax que conoce a Clank y que con el se embarcarán en una épica aventura para salvar la Galaxia Solana del malvado villano Presidente Alonzo Drek, el cual planea la creación de un planeta perfecto con la ayuda del Dr. Nefarius.",
+            "precio": 39.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/ratchet-and-clank.jpg?raw=true",
+            "destacado": "no",
+            "masBuscado": "si",
+            "disponibilidad": "Disponible"
+            
+        },
+        {
+            "id": 72,
+            "nombre": "Resident Evil 3",
+            "plataforma": "Playstation 4",
+            "descripcion": "Una serie de extrañas desapariciones han estado ocurriendo en la región medio-oeste de los Estados Unidos, en un lugar llamado Raccoon City. Un escuadrón especial de las fuerzas de policía conocido como S.T.A.R.S. ha estado investigando el caso, y han determinado que la compañía farmacéutica Umbrella y su arma biológica, el virus T, son responsables de estos incidentes. Tras perder a varios miembros durante la investigación, Jill Valentine y el resto de miembros supervivientes de S.T.A.R.S. siguen tratando de sacar a la luz la verdad, pero se encuentran con que el mismo departamento de policía está bajo la influencia de Umbrella, y por ello sus informes son descartados sin que puedan hacer nada al respecto. Sin embargo, noticias de un inquietante virus caníbal empiezan a surgir, y perros monstruosos comienzan a rondar las calles. Con la plaga vírica extendiéndose por la ciudad hasta su mismo apartamento, Jill no tiene más remedio que luchar por sobrevivir.Sin embargo, no sabe que una poderosa unidad enemiga ya ha sido desplegada para matarla.",
+            "precio": 59.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/re3.jpg?raw=true",
+            "destacado": "si",
+            "masBuscado": "no",
+            "disponibilidad": "Disponible"
+            
+        },
+        {
+            "id": 73,
+            "nombre": "Resident Evil 7",
+            "plataforma": "Playstation 4",
+            "descripcion": "La trama de Resident Evil 7 gira en torno a Ethan, un hombre de mediana edad que busca desesperadamente a su mujer en una ruinosa mansión de la América profunda. Ella ha caído en las garras de la familia Baker - formada por tres miembros: Jack Baker (el hombre mayor que nos golpeaba sin piedad en la demo del juego), Marguerite Baker (la mujer que hemos visto persiguiendo y 'jugando' con la esposa de Ethan en el vídeo de la Gamescom) y Lucas Baker (del que aún no sabemos nada más que es la 'oveja negra' de la familia). Aprovechando la calificación del juego se nos ha avanzado que vamos a encontrar un montón de escenas gore y muy sangrientas",
+            "precio": 59.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/re7.jpg?raw=true",
+            "destacado": "no",
+            "masBuscado": "no",
+            "disponibilidad": "Disponible"
+            
+        },
+        {
+            "id": 74,
+            "nombre": "Horizon Zero Dawn",
+            "plataforma": "Playstation 4",
+            "descripcion": "Cuando era una niña, Aloy fue puesta bajo el cuidado de Rost, un paria de las Matriarcas Nora. Debido a las misteriosas circunstancias de su nacimiento (ausencia de madre), Aloy también se convirtió en paria, siendo perseguida y marginada por el resto de los Nora. Un día, siendo aún una niña, Aloy cayó por accidente en un búnker de los Antiguos, donde encontró un Foco, un pequeño dispositivo que se coloca en la oreja y otorga habilidades especiales de percepción, como interactuar con las máquinas y la tecnología de los antiguos. Más tarde, Aloy siente curiosidad sobre la identidad de su madre, y decide enfrentarse a una competición Nora llamada la Prueba, con lo que se convertirá en un miembro de la tribu y podrá preguntar directamente a las Matriarcas. Rost la entrena durante varios años, enseñándole a cazar, luchar y sobrevivir.",
+            "precio": 59.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/horizon.jpg?raw=true",
+            "destacado": "si",
+            "masBuscado": "no",
+            "disponibilidad": "Disponible"
+            
+        },
+        {
+            "id": 75,
+            "nombre": "Tekken 7",
+            "plataforma": "Playstation 4",
+            "descripcion": "Luego de la destrucción de Azazel, El paradero de Jin Kazama es desconocido. Sin su liderazgo, las Fuerzas Tekken se encuentran acéfalas, hasta que Nina Williams asume el mando de facto. Las cosas se complican cuando se revela que Heihachi Mishima, cuyo paradero hasta el momento era desconocido luego de los acontecimientos de Tekken 4, hace su reaparición sorpresa exigiendo de inmediato el liderazgo de la Mishima Zaibatsu para declararle la guerra a su hijo Kazuya, líder de la Corporación G. Mientras tanto, tropas de la ONU lideradas por Raven encuentran a Jin y logran ponerlo a salvo. Cuando lo transportaban en el helicóptero, el Gen Diabólico presente en Jin hace que este despierte y escape de allí, huyendo tanto de la Corporación G como de las fuerzas de Mishima Zaibatsu, yendo a parar a los desiertos de Oriente medio donde vaga sin rumbo fijo hasta que es encontrado por Lars Alexandersson quien ha unido fuerzas con Lee Chaolan, presidente de Violet Systems, compañía que se opone a la Corporación G y a Mishima Zaibatsu. Una vez llegan a Violet Systems, Jin es colocado en estado de coma inducido hasta que se recupere completamente.",
+            "precio": 39.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/tekken7.jpg?raw=true",
+            "destacado": "si",
+            "masBuscado": "si",
+            "disponibilidad": "No Disponible"
+            
+        },
+        {
+            "id": 76,
+            "nombre": "Metro Redux",
+            "plataforma": "Playstation 4",
+            "descripcion": "Metro Redux es un videojuego de disparos en primera persona post-apocalíptico y un remake de dos partes de Metro 2033 y Metro: Last Light. Desarrollado por 4A Games y publicado por Deep Silver, su fecha de lanzamiento oficial en PC y consolas fue en agosto de 2014; con una versión para Nintendo Switch lanzada el 28 de febrero de 2020. Metro Redux consiste en un remake de ambos juegos con un mejorado 4A Engine. Mientras que Metro: Last Light consiste en una versión mejorada, Metro 2033 fue completamente remozado con el motor de Last Light y las mismas características.",
+            "precio": 19.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/metro.jpg?raw=true",
+            "destacado": "no",
+            "masBuscado": "no",
+            "disponibilidad": "No Disponible"
+            
+        },
+        {
+            "id": 77,
+            "nombre": "Kingdom Hearts 3",
+            "plataforma": "Playstation 4",
+            "descripcion": "Kingdom Hearts III es una historia de amistad en la que Sora y sus amigos se embarcan en una peligrosa aventura. Ambientado en una serie de mundos de Disney y Pixar; narra el viaje de Sora, un joven que descubre inesperadamente que posee un poder espectacular. Con la ayuda de Donald y Goofy, Sora lucha para evitar que una fuerza maligna conocida como los sincorazón invada todo el universo. Guiados por el poder de la amistad, Sora, Donald y Goofy unen fuerzas con personajes de Disney-Pixar nuevos y ya conocidos para superar enormes desafíos y plantarle cara a la oscuridad que se cierne sobre sus mundos.",
+            "precio": 69.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/kh3.jpg?raw=true",
+            "destacado": "si",
+            "masBuscado": "si",
+            "disponibilidad": "Disponible"
+            
+        },
+        {
+            "id": 76,
+            "nombre": "Black Ops 3",
+            "plataforma": "Playstation 4",
+            "descripcion": "Call of Duty: Black Ops III es un shooter en primera persona desarrollado por Treyarch y publicado por Activision. Fue estrenado el 6 de noviembre de 2015 para las plataformas PlayStation 3, PlayStation 4, Xbox 360, Xbox One y PC. El desarrollo para Xbox 360 y PlayStation 3 corrió a cargo de Beenox y Mercenary Technology. Se trata de la cuarta entrega de la saga Black Ops; siguiendo a Call of Duty: World at War, Black Ops y Black Ops II. Se trata del primer Call of Duty cuyo contenido descargable, incluyendo el acceso beta, estuvo disponible temporalmente de forma exclusiva para consolas PlayStation.",
+            "precio": 69.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/bo3.jpg?raw=true",
+            "destacado": "no",
+            "masBuscado": "si",
+            "disponibilidad": "Disponible"
+            
+        },
+        {
+            "id": 77,
+            "nombre": "Sekiro: Shadows Die Twice",
+            "plataforma": "Playstation 4",
+            "descripcion": "Sekiro: Shadows Die Twice está ambientado en un Japón del periodo Sengoku a finales del siglo XVI, un período de conflicto constante entre la vida y la muerte. Su protagonista es un shinobi que fue dado por muerto después de que su señor fuera secuestrado y su brazo cercenado por un líder samurái del Clan Ashina. Este shinobi despierta y descubre que su brazo ha sido reemplazado por una prótesis por un misterioso busshi que le llama Sekiro, el lobo manco. Armado con una katana y la prótesis, que le permite instalar diferentes herramientas y aparatos, su propósito es rescatar a su señor y vengarse.",
+            "precio": 49.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/sekiro.jpg?raw=true",
+            "destacado": "no",
+            "masBuscado": "no",
+            "disponibilidad": "Disponible"
+            
+        },
+        {
+            "id": 78,
+            "nombre": "Dark Souls Remastered",
+            "plataforma": "Playstation 4",
+            "descripcion": "Dark Souls tiene lugar en el reino ficticio llamado Lordran. Los jugadores toman el papel de un personaje humano maldito que ha sido elegido para realizar un peregrinaje para descubrir el destino de los no muertos. El argumento del juego se va contando fundamentalmente a través de descripciones de objetos del juego, y diálogos con personajes no jugables (PNJs). Los jugadores deben ir reuniendo pistas para poder entender la historia. Dark Souls se labró un gran reconocimiento por su extenuante dificultad e implacable desafío. El mundo del juego está lleno de armas, armaduras y objetos consumibles que tienen como objetivo ayudar al jugador durante su viaje.",
+            "precio": 19.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/dark-souls.jpg?raw=true",
+            "destacado": "no",
+            "masBuscado": "no",
+            "disponibilidad": "Disponible"
+            
+        },
+        {
+            "id": 79,
+            "nombre": "Dark Souls 3",
+            "plataforma": "Playstation 4",
+            "descripcion": "Sí, en efecto. Se llama Lothric, donde convergen las tierras transitorias de los Señores de la Ceniza. Cuando viajan hacia el norte, los peregrinos descubren la verdad sobre las viejas historias. La llama se apaga, y los Señores pierden sus tronos. Cuando el enlace del fuego peligra, la campana repica y los viejos Señores de la Ceniza abandonan sus tumbas. Aldrich, el Santo de la Oscuridad. Pero, en verdad... Los Señores abandonarán sus tronos, y los Latentes se alzarán. No muertos malditos y sin nombre que no merecen ni ser ceniza. Y así ocurre. Que la ceniza busca ascuas.",
+            "precio": 49.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/dark-souls3.jpg?raw=true",
+            "destacado": "no",
+            "masBuscado": "no",
+            "disponibilidad": "No Disponible"
+            
+        },
+        {
+            "id": 80,
+            "nombre": "Battlefield 1",
+            "plataforma": "Playstation 4",
+            "descripcion": "El juego se ambienta en la Primera Guerra Mundial. El jugador empieza cerca de la línea de combate y debe sobrevivir tanto como sea posible contra oleadas de soldados alemanes. Durante la campaña un jugador, el jugador controla seis diferentes personajes desde una vista en primera persona en seis capítulos diferentes. Su jugabilidad es similar a las anteriores entregas, a donde se enfatiza el trabajo en equipo.",
+            "precio": 49.95,
+            "ruta": "https://github.com/Eufori98/Imagenes/blob/main/bf1.jpg?raw=true",
+            "destacado": "no",
+            "masBuscado": "no",
+            "disponibilidad": "Disponible"
+            
+        }                                                    
+    ]
+}
